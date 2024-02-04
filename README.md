@@ -12,6 +12,6 @@
  <img align="center" alt="JavaScri" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br>
 
-## Sou estudante do 2º ano no curso de Desenvolvimento de Sistemas, na EEEP Adolfo Ferreira de Souza.
+## Sou estudante do 2º ano no curso de Desenvolvimento de Sistemas, na EEEP Adolfo Ferreira de Sousa.
 
 # Futuro Dev Back-End.

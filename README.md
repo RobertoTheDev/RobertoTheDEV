@@ -19,7 +19,7 @@
 
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="180"/>
 
-Olá! Sou **Roberto Filho**, estudante do **2º ano do curso de Desenvolvimento de Sistemas** na **EEEP Adolfo Ferreira de Sousa**.  
+Olá! Sou **Roberto Filho**, estudante do **3º ano do curso de Desenvolvimento de Sistemas** na **EEEP Adolfo Ferreira de Sousa**.  
 
 Estou focado em aprender e desenvolver habilidades que me permitam criar soluções inovadoras e eficientes. Tenho um grande interesse por tecnologias Back-End e ferramentas modernas de desenvolvimento.  
 

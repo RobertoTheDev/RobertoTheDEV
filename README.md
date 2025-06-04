@@ -33,8 +33,10 @@ Sou apaixonado por tecnologia, inovação e desafios que me façam crescer como 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&exclude_repo=visual-basic-projeto&layout=compact&langs_count=7&theme=radical&title_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoTheDev&show_icons=true&theme=radical&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&exclude_repo=nome-do-repo-vb&layout=compact&langs_count=7&theme=radical&title_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" />
+
+</div> 
 
 ---
 

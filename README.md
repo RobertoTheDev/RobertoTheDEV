@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=200&section=header&text=RobertoTheDev&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!+🚀;Sou+Roberto+Filho+🧑‍💻;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+programação!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!+🚀;Sou+Roberto+Filho+🧑‍💻;Desenvolvedor+de+Sistemas;Apaixonado+por+tecnologia+e+programação!" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,16 +13,28 @@
 Olá! Sou **Roberto Filho**, estudante do **3º ano do curso de Desenvolvimento de Sistemas** na **EEEP Adolfo Ferreira de Sousa**.
 
 Atualmente estou focado em:
-- Desenvolvimento de aplicações com **node.js** e **Express**
-- Desenvolvimento Back-End com **PHP** e **Laravel**.
-- Uso de **Docker** para ambientes escaláveis.
+- Desenvolvimento de aplicações com **Node.js** e **Express**
+- Desenvolvimento Back-End com **PHP** e **Laravel**
+- Criação de ambientes escaláveis com **Docker**
+- Integração de **bancos de dados relacionais e não relacionais**
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
+### 💻 Linguagens & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,docker,mysql,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css&theme=dark" />
+</div>
+
+### 🛠 Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker,postman&theme=dark" />
+</div>
+
+### 🗄️ Banco de Dados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </div>
 
 ---
@@ -31,12 +43,8 @@ Atualmente estou focado em:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoTheDev&show_icons=true&theme=radical&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&exclude_repo=nome-do-repo-vb&layout=compact&langs_count=7&theme=radical&title_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&layout=compact&langs_count=7&theme=radical&title_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" />
 </div> 
-
-
-
 
 ---
 

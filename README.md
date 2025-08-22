@@ -13,7 +13,7 @@
 Olá! Sou **Roberto Filho**, estudante do **3º ano do curso de Desenvolvimento de Sistemas** na **EEEP Adolfo Ferreira de Sousa**.
 
 Atualmente estou focado em:
-- Desenvolvimento de aplicações com **node.js**
+- Desenvolvimento de aplicações com **node.js** e **Express**
 - Desenvolvimento Back-End com **PHP** e **Laravel**.
 - Uso de **Docker** para ambientes escaláveis.
 

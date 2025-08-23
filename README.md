@@ -24,7 +24,7 @@ Atualmente estou focado em:
 
 ### 💻 Linguagens & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css&theme=dark" />
 </div>
 
 ### 🛠 Ferramentas

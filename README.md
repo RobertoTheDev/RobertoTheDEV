@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Roberto%20Filho&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Back-End%20Developer&descAlignY=60&descSize=16&descColor=94A3B8"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=ADS+%40+IFPB+%F0%9F%8E%93;TypeScript+%2B+Node.js+%2B+PHP+%2F+Laravel;Docker+%7C+PostgreSQL+%7C+MongoDB;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=ADS+%40+IFPB+%F0%9F%8E%93;TypeScript+%2B+Node.js+%2B+PHP+%2F+Laravel;Python+%2B+Django;Flutter+%2B+Dart;Docker+%7C+PostgreSQL+%7C+MongoDB;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
 
 ---
@@ -10,11 +10,12 @@
 
 ```ts
 const roberto = {
-  education: "ADS @ IFPB",
-  focus:     ["Back-End", "REST APIs", "Infrastructure"],
-  stack:     ["TypeScript", "Node.js", "PHP", "Laravel"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB"],
-  tools:     ["Docker", "Linux", "Git"],
+  education : "ADS @ IFPB",
+  focus     : ["Back-End", "REST APIs", "Infrastructure", "Mobile"],
+  languages : ["TypeScript", "JavaScript", "PHP", "Python", "Dart"],
+  frameworks: ["Node.js", "Laravel", "Django", "Flutter"],
+  databases : ["PostgreSQL", "MySQL", "MongoDB"],
+  tools     : ["Docker", "Linux", "Git"],
 };
 ```
 
@@ -22,8 +23,30 @@ const roberto = {
 
 ## stack
 
+**Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,php,laravel,postgres,mysql,mongodb,docker,linux,git&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,dart&theme=dark&perline=5" />
+</div>
+
+<br/>
+
+**Frameworks & Runtimes**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,django,flutter&theme=dark&perline=4" />
+</div>
+
+<br/>
+
+**Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" />
+</div>
+
+<br/>
+
+**Tools & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark&perline=3" />
 </div>
 
 ---

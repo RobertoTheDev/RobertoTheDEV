@@ -92,11 +92,6 @@ const roberto = {
   <a href="https://www.linkedin.com/in/roberto-filho-393b372b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/robertofilho197" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-7E3ACE?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=RobertoTheDev&style=for-the-badge&color=7E3ACE&label=VIEWS" />
 </p>
 
